@@ -6,3 +6,4 @@
 - 🌱 I’m currently learning vue
 - 📗 I’m currently learning English
 -coding
+-2day
